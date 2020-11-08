@@ -1,0 +1,442 @@
+1604085467393	geckodriver	INFO	Listening on 127.0.0.1:52108
+1604085468404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilemRIbxv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604085470782	Marionette	INFO	Listening on port 52119
+1604085470874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604085492927	geckodriver	INFO	Listening on 127.0.0.1:52193
+1604085493934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileCIYU4E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604085496025	Marionette	INFO	Listening on port 52204
+1604085496100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604085622516	geckodriver	INFO	Listening on 127.0.0.1:52314
+1604085623527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileB6qO5Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604085625647	Marionette	INFO	Listening on port 52325
+1604085625716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604085698269	Marionette	INFO	Stopped listening on port 52325
+1604085702781	Marionette	INFO	Stopped listening on port 52204
+1604085751763	geckodriver	INFO	Listening on 127.0.0.1:52412
+1604085752773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileXAP4KU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604085754678	Marionette	INFO	Listening on port 52423
+1604085754759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604085785158	geckodriver	INFO	Listening on 127.0.0.1:52489
+1604085786172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofile8Sqv1l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604085788118	Marionette	INFO	Listening on port 52500
+1604085788251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604085935678	Marionette	INFO	Stopped listening on port 52500
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1604085938515	Marionette	INFO	Stopped listening on port 52423
+1604085943570	Marionette	INFO	Stopped listening on port 52119
+1604085981258	geckodriver	INFO	Listening on 127.0.0.1:52687
+1604085982262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileIWgdo2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604085984246	Marionette	INFO	Listening on port 52698
+1604085984333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604086025324	geckodriver	INFO	Listening on 127.0.0.1:52765
+1604086026331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileLdKlPB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604086028277	Marionette	INFO	Listening on port 52776
+1604086028402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604086049414	geckodriver	INFO	Listening on 127.0.0.1:52845
+1604086050416	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileQuhypc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604086052517	Marionette	INFO	Listening on port 52856
+1604086052579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604086144265	geckodriver	INFO	Listening on 127.0.0.1:52968
+1604086145279	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileC0tYZD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604086147432	Marionette	INFO	Listening on port 52979
+1604086147469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604086159189	Marionette	INFO	Stopped listening on port 52776
+1604086162011	Marionette	INFO	Stopped listening on port 52856
+1604086164766	Marionette	INFO	Stopped listening on port 52979
+1604086294258	geckodriver	INFO	Listening on 127.0.0.1:53067
+1604086295282	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilejzyf8v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604086297586	Marionette	INFO	Listening on port 53078
+1604086297657	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604086561641	geckodriver	INFO	Listening on 127.0.0.1:53160
+1604086562645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofile4LnU63"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604086564818	Marionette	INFO	Listening on port 53171
+1604086564917	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604086615879	geckodriver	INFO	Listening on 127.0.0.1:53229
+1604086616907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileyQMsBP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604086618763	Marionette	INFO	Listening on port 53240
+1604086618876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604086721852	Marionette	INFO	Stopped listening on port 53240
+1604086725731	Marionette	INFO	Stopped listening on port 53171
+1604086730764	geckodriver	INFO	Listening on 127.0.0.1:53309
+1604086731777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofile3wPtFY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604086733801	Marionette	INFO	Listening on port 53320
+1604086733846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604086960929	geckodriver	INFO	Listening on 127.0.0.1:53417
+1604086961936	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileyfDGIZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604086964095	Marionette	INFO	Listening on port 53424
+1604086964198	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604087055573	geckodriver	INFO	Listening on 127.0.0.1:53493
+1604087056586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilegq8iIk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604087058639	Marionette	INFO	Listening on port 53504
+1604087058763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604087125013	geckodriver	INFO	Listening on 127.0.0.1:53601
+1604087126029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofile2zWTpM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604087128225	Marionette	INFO	Listening on port 53612
+1604087128317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604087228875	geckodriver	INFO	Listening on 127.0.0.1:53735
+1604087229885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileiepKdh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604087232226	Marionette	INFO	Listening on port 53746
+1604087232264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604087273173	geckodriver	INFO	Listening on 127.0.0.1:53806
+1604087274187	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileG03w45"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604087276333	Marionette	INFO	Listening on port 53817
+1604087276452	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604087367117	Marionette	INFO	Stopped listening on port 53320
+1604087369481	Marionette	INFO	Stopped listening on port 53078
+1604087377206	Marionette	INFO	Stopped listening on port 53612
+1604087380636	Marionette	INFO	Stopped listening on port 53504
+1604087383564	Marionette	INFO	Stopped listening on port 53424
+1604087386505	Marionette	INFO	Stopped listening on port 53817
+1604087389405	Marionette	INFO	Stopped listening on port 53746
+1604087393576	Marionette	INFO	Stopped listening on port 52698
+1604087417020	geckodriver	INFO	Listening on 127.0.0.1:53903
+1604087418028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileVZyxjZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604087420077	Marionette	INFO	Listening on port 53914
+1604087420192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604087991548	geckodriver	INFO	Listening on 127.0.0.1:54044
+1604087992557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileb00mdt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604087994566	Marionette	INFO	Listening on port 54055
+1604087994648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604088066646	geckodriver	INFO	Listening on 127.0.0.1:54124
+1604088067656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofiles289jZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604088069644	Marionette	INFO	Listening on port 54135
+1604088069723	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604088358425	Marionette	INFO	Stopped listening on port 54135
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604088361957	Marionette	INFO	Stopped listening on port 54055
+1604088364599	Marionette	INFO	Stopped listening on port 53914
+1604088380692	geckodriver	INFO	Listening on 127.0.0.1:54225
+1604088381701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilepGLwYX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604088383608	Marionette	INFO	Listening on port 54236
+1604088383681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604088641635	geckodriver	INFO	Listening on 127.0.0.1:54299
+1604088642644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileqBtK45"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604088644606	Marionette	INFO	Listening on port 54311
+1604088644629	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604088766744	geckodriver	INFO	Listening on 127.0.0.1:54379
+1604088767751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileYxatvE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604088769858	Marionette	INFO	Listening on port 54390
+1604088769959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604088947287	Marionette	INFO	Stopped listening on port 54390
+1604088952168	geckodriver	INFO	Listening on 127.0.0.1:54525
+1604088953180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileOVJ5Va"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604088955280	Marionette	INFO	Listening on port 54536
+1604088955419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604089114223	geckodriver	INFO	Listening on 127.0.0.1:54642
+1604089115235	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilefWmcgv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604089117579	Marionette	INFO	Listening on port 54653
+1604089117646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604089260958	geckodriver	INFO	Listening on 127.0.0.1:54746
+1604089261967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofile32ZL5R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604089263956	Marionette	INFO	Listening on port 54757
+1604089264040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604089461983	geckodriver	INFO	Listening on 127.0.0.1:54866
+1604089462989	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileaT1YyD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604089465587	Marionette	INFO	Listening on port 54877
+1604089465673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604089612035	geckodriver	INFO	Listening on 127.0.0.1:54969
+1604089613041	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileo2tXah"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604089615816	Marionette	INFO	Listening on port 54980
+1604089615867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604089734480	geckodriver	INFO	Listening on 127.0.0.1:55049
+1604089735490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileIhtyoK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604089738100	Marionette	INFO	Listening on port 55060
+1604089738248	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604090033537	geckodriver	INFO	Listening on 127.0.0.1:55184
+1604090034548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileOS9J70"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604090037275	Marionette	INFO	Listening on port 55195
+1604090037338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604233986832	Marionette	INFO	Stopped listening on port 55195
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child2/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:274:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:617:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:154:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\ndestroy@resource://devtools/shared/protocol/Front.js:65:11\ndestroy@resource://devtools/client/fronts/inspector.js:104:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:657:17\n", "resource://devtools/shared/protocol/Front.js", 98))
+1604233989826	Marionette	INFO	Stopped listening on port 55060
+1604235734931	Marionette	INFO	Stopped listening on port 54980
+1604235737843	Marionette	INFO	Stopped listening on port 54877
+1604235740842	Marionette	INFO	Stopped listening on port 54757
+1604235743627	Marionette	INFO	Stopped listening on port 54653
+1604235746538	Marionette	INFO	Stopped listening on port 54536
+1604235749459	Marionette	INFO	Stopped listening on port 54311
+1604235752312	Marionette	INFO	Stopped listening on port 54236
+1604236170465	geckodriver	INFO	Listening on 127.0.0.1:59363
+1604236170496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofile9H4eIS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604236172853	Marionette	INFO	Listening on port 59372
+1604236172921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604236319899	geckodriver	INFO	Listening on 127.0.0.1:59522
+1604236320909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofile7ULJYh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604236322994	Marionette	INFO	Listening on port 59533
+1604236323061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604236519627	geckodriver	INFO	Listening on 127.0.0.1:59599
+1604236520639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileBbg2Lx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604236523061	Marionette	INFO	Listening on port 59610
+1604236523135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604236574337	geckodriver	INFO	Listening on 127.0.0.1:59668
+1604236575350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilekmmchq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604236577837	Marionette	INFO	Listening on port 59679
+1604236577958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604236668236	geckodriver	INFO	Listening on 127.0.0.1:59770
+1604236669240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilewlGPJn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604236671333	Marionette	INFO	Listening on port 59781
+1604236671433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604236935708	Marionette	INFO	Stopped listening on port 59533
+1604236938333	Marionette	INFO	Stopped listening on port 59679
+1604236946380	Marionette	INFO	Stopped listening on port 59781
+1604236949374	Marionette	INFO	Stopped listening on port 59610
+1604236952082	Marionette	INFO	Stopped listening on port 59372
+1604236954649	geckodriver	INFO	Listening on 127.0.0.1:60050
+1604236955665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileXAJU3V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604236957809	Marionette	INFO	Listening on port 60061
+1604236957844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604237197679	geckodriver	INFO	Listening on 127.0.0.1:60185
+1604237198691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilegqKf0j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237200707	Marionette	INFO	Listening on port 60196
+1604237200772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604237288082	Marionette	INFO	Stopped listening on port 60196
+1604237292399	geckodriver	INFO	Listening on 127.0.0.1:60272
+1604237293405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileECthoJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237295542	Marionette	INFO	Listening on port 60283
+1604237295581	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604237381589	Marionette	INFO	Stopped listening on port 60283
+1604237388274	Marionette	INFO	Stopped listening on port 60061
+1604237392060	geckodriver	INFO	Listening on 127.0.0.1:60356
+1604237393075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilej1saMn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237395125	Marionette	INFO	Listening on port 60367
+1604237395153	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604237568804	geckodriver	INFO	Listening on 127.0.0.1:60439
+1604237569812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileWe1PTn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237571786	Marionette	INFO	Listening on port 60447
+1604237571874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604237627935	geckodriver	INFO	Listening on 127.0.0.1:60510
+1604237628942	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofiledFs6VY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237631201	Marionette	INFO	Listening on port 60521
+1604237631317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604237672195	Marionette	INFO	Stopped listening on port 60521
+1604237675854	Marionette	INFO	Stopped listening on port 60447
+1604237678808	Marionette	INFO	Stopped listening on port 60367
+1604237683855	geckodriver	INFO	Listening on 127.0.0.1:60592
+1604237684868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileOjl27K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237686813	Marionette	INFO	Listening on port 60603
+1604237686929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604237791153	Marionette	INFO	Stopped listening on port 60603
+1604237794054	geckodriver	INFO	Listening on 127.0.0.1:60669
+1604237795067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilemZV3Wj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237797163	Marionette	INFO	Listening on port 60680
+1604237797217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604237865544	geckodriver	INFO	Listening on 127.0.0.1:60753
+1604237866556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilekBhfVr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237868562	Marionette	INFO	Listening on port 60764
+1604237868653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604237921993	geckodriver	INFO	Listening on 127.0.0.1:60826
+1604237923007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilexoGtlA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604237924993	Marionette	INFO	Listening on port 60837
+1604237925073	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604238057433	geckodriver	INFO	Listening on 127.0.0.1:60911
+1604238058438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileBNss5h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604238060662	Marionette	INFO	Listening on port 60918
+1604238060751	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604238166159	Marionette	INFO	Stopped listening on port 60918
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604238168951	Marionette	INFO	Stopped listening on port 60837
+1604238171540	Marionette	INFO	Stopped listening on port 60764
+1604238174726	Marionette	INFO	Stopped listening on port 60680
+1604238799988	geckodriver	INFO	Listening on 127.0.0.1:61021
+1604238800997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileW3o73F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604238803429	Marionette	INFO	Listening on port 61032
+1604238803483	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604239013329	geckodriver	INFO	Listening on 127.0.0.1:61110
+1604239014340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofilekhFVgQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604239016329	Marionette	INFO	Listening on port 61121
+1604239016399	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604239856293	geckodriver	INFO	Listening on 127.0.0.1:61285
+1604239857313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofile816sZ5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604239859907	Marionette	INFO	Listening on port 61292
+1604239860005	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1086"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1086:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:662:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1185:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1410:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1133:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:584:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:662:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1185, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1185))
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 392: TypeError: this.ownerNode is null
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 392: TypeError: this.ownerNode is null
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1086"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1086:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:662:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1185:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1410:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1133:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:584:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:662:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1185, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1185))
+1604240146052	Marionette	INFO	Stopped listening on port 61292
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child2/stylesheet527, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:274:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:109:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:312:13\nonPacket@resource://devtools/client/devtools-client.js:492:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 98))
+console.warn: "fetching stylesheets failed" (new Error("Connection closed, pending request to server0.conn0.child2/styleSheetsActor4, type getStyleSheets failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:274:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:97:48\n", "resource://devtools/shared/protocol/Front.js", 98))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604240151072	Marionette	INFO	Stopped listening on port 61121
+1604240376765	geckodriver	INFO	Listening on 127.0.0.1:61419
+1604240377773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1y/3s7y8jzd44zfbxp0y1czvhzw0000gn/T/rust_mozprofileea7gaj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604240379985	Marionette	INFO	Listening on port 61427
+1604240380048	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1604240448917	Marionette	INFO	Stopped listening on port 61427
+1604240458796	Marionette	INFO	Stopped listening on port 61032
