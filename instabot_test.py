@@ -1,10 +1,11 @@
 # imports
 from instapy import InstaPy
 from instapy import smart_run
+import config
 
 # login credentials
-insta_username = 'tie_customs'  # <- enter username here
-insta_password = 'm@rkos13'  # <- enter password here
+insta_username = config.username  # <- enter username here
+insta_password = config.password  # <- enter password here
 
 # get an InstaPy session!
 # set headless_browser=True to run InstaPy in the background
