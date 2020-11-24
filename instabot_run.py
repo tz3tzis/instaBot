@@ -1,39 +1,20 @@
 # imports
 from instapy import InstaPy
 from instapy import smart_run
+from instapy import set_workspace
+from instapy import get_workspace
+import time
 import config
 import schedule
 
 
-# starting_times = [  "00:00", "00:30",
-#                     "01:00", "01:30", 
-#                     "02:00", "02:30", 
-#                     "03:00", "03:30", 
-#                     "04:00", "04:30", 
-#                     "05:00", "05:30", 
-#                     "06:00", "06:30", 
-#                     "07:00", "07:30", 
-#                     "08:00", "08:30", 
-#                     "09:00", "09:30",
-#                     "10:00", "10:30", 
-#                     "11:00", "11:30", 
-#                     "12:00", "12:30", 
-#                     "13:00", "13:30", 
-#                     "14:00", "14:30"]
-
-# def hustle_strategy():
-  # login credentials
 insta_username = config.username  # <- enter username here
 insta_password = config.password  # <- enter password here
 
-# get an InstaPy session!
-# set headless_browser=True to run InstaPy in the background
-session = InstaPy(
-    username=insta_username,
-    password=insta_password,
-    headless_browser=False)
+set_workspace(path="/Users/tz3m/Desktop/instagram")
 
-  #Create some cool comments
+session = InstaPy(username=insta_username, password=insta_password,headless_browser=False)
+
 comments=[
 
       {'mandatory_words': ["#customaf1", "#customairforceones"], 'comments': ["Those AF1 look dope !", "Damn! What an outstanding pair of air force ones."]},
@@ -46,11 +27,31 @@ comments=[
 ]
 
 
-with smart_run(session):
 
-      # quota supervisor
-      session.set_quota_supervisor(
-        enabled=True, sleep_after=["likes", "comments_d", "follows", "unfollows", "server_calls_h"], sleepyhead=True, stochastic_flow=True, notify_me=True,
+def unfollow():
+  print("i am in");
+  
+  with smart_run(session):
+
+    session.unfollow_users(
+      amount=99, 
+      instapy_followed_enabled=True, 
+      instapy_followed_param="nonfollowers",
+      style="FIFO",
+      unfollow_after=12 * 60 * 60, 
+      sleep_delay=60)
+
+
+def hustle_strategy():
+
+  with smart_run(session):
+
+    session.set_quota_supervisor(
+        enabled=True, 
+        sleep_after=["likes", "comments_d", "follows", "unfollows", "server_calls_h"], 
+        sleepyhead=True, 
+        stochastic_flow=True, 
+        notify_me=True,
         peak_likes_hourly=100,
         peak_likes_daily=789,
         peak_comments_hourly=30,
@@ -62,56 +63,43 @@ with smart_run(session):
         peak_server_calls_hourly=None,
         peak_server_calls_daily=4700)
 
-      # skip users
-      session.set_skip_users(
+    session.set_skip_users(
         skip_private=True,
         private_percentage=100,
         skip_no_profile_pic=False,
         no_profile_pic_percentage=100)
 
-      # general settings
-      session.set_relationship_bounds(
+     
+    session.set_relationship_bounds(
         enabled=True,
         delimit_by_numbers=True,
-        max_followers=5000,
+        max_followers=12000,
         min_followers=500,
         min_following=100,
-        min_posts=5)
+        min_posts=3)
 
-      # activity settings
-      session.set_do_like(enabled=True, percentage=93)
-      session.set_comments(comments)
-      session.set_do_comment(enabled=True, percentage=25)
-      session.set_do_follow(
-        enabled=True, 
-        percentage=41, 
-        times=2)
-      session.set_dont_unfollow_active_users(
-        enabled=True, 
-        posts=5)
-      # session.unfollow_users(
-      #   amount=500, 
-      #   instapy_followed_enabled=True, 
-      #   instapy_followed_param="nonfollowers",
-      #   style="FIFO",
-      #   unfollow_after=12 * 60 * 60, sleep_delay=601)
-      
-      # activity
-      # session.like_by_feed(
-      #   amount=500, 
-      #   randomize=false)
-      session.like_by_tags(
-        ["customshoes","customaf1","customsneakers","#customkicks", "customnike", "customvans"], 
+    # activity settings
+    session.set_do_like(enabled=True, percentage=93)
+    session.set_comments(comments)
+    session.set_do_comment(enabled=True, percentage=25)
+    session.set_do_follow(enabled=True, percentage=41, times=2)
+ 
+    session.like_by_tags(
+      ["customshoes","customaf1","customsneakers","#customkicks", "customnike", "customvans"], 
         amount=50)
 
-      session.end()
-  #=======================================================================================================================================#
+#=======================================================================================================================================#
   
-  # schedule.every().hour.do(hustle_strategy)
-  # schedule.every().day.at("01:09").do(hustle_strategy)
+schedule.every().day.at("10:53").do(hustle_strategy)
+schedule.every().day.at("18:31").do(hustle_strategy)
+schedule.every().day.at("20:38").do(hustle_strategy)
+schedule.every().day.at("21:56").do(unfollow)
+schedule.every().day.at("00:38").do(hustle_strategy)
+schedule.every().wednesday.at("22:01").do(unfollow)
 
-  # schedule.run_pending()
-  # print("RUNNED PENDING")
 
-
+while True: 
+  schedule.run_pending()
+  time.sleep(10)
+  print("BOT IS SLEEPING PLEASE BE QUIET") 
 
